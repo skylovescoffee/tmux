@@ -20,6 +20,7 @@
     - `$HOME/.tmux.conf` is usually at `~/.tmux.conf`.
     - **If the directory does not exist, create it.** 📁
 - Source the config with `tmux source ~/.config/tmux/tmux.conf`.
-- Make sure you are in tmux and install the plugins with the keybinding `ctrl + b + I` the i is capitalised so its more like `ctrl + b + shift + i` 🛠️
+- Make sure you are in tmux and install the plugins with the keybinding `ctrl + b + I`.
+    - (the i is capitalised so its more like `ctrl + b + shift + i`) 🛠️
 
 Feel free to enjoy the enhanced tmux experience with this configuration! If you have any questions or feedback, don't hesitate to reach out. Happy Tmuxing! 🎉🐢
