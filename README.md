@@ -5,11 +5,11 @@
 - 🧘 Minimalistic. 
 - ⌨️ Native vim keybindings. 
 - 📈 High resolution display. 
-- 🔄Simple and true to the original. (You shouldn't have any problems switching back to the original tmux.) 
+- 🔄 Simple and true to the original. (You shouldn't have any problems switching back to the original tmux.) 
 
 ## Requirements 🛠️
 - Tmux. 📟
-- Mac or Linux. (Untested on Windows, but WSL2 should work). 🍎🐧
+- Mac or Linux. (Untested on Windows, but WSL2 should work). 🐧
 - [Tmux Plugin Manager (TPM)](https://github.com/tmux-plugins/tpm) 🧰
 - A suitable terminal emulator. I like [Alacritty](https://github.com/alacritty/alacritty) 🚀
 
